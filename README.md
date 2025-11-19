@@ -62,21 +62,22 @@ Currently learning **Web Development from Programming Hero**, and improving my s
 ---
 
 ## 📌 Pinned Projects
-### 1. **Project One**
-**Description:** Short overview of your project.  
+### 1. **FinEase**
+**Description:** FinEase is a full-stack web application designed to simplify personal finance management.
+With FinEase, users can record their daily transactions, analyze spending habits, and make informed financial decisions — all through an elegant and responsive interface..  
 **Tech Stack:** HTML • CSS • JS • React • Node.js  
-**Live Link:** [Live Site](#)  
-**Repo:** [GitHub Repo](#)
+**Live Link:** [https://finease-e38f4.firebaseapp.com/](#)  
+**Repo:** [https://github.com/Naazrul-Islam/FinEase-claint](#)
 
-### 2. **Project Two**
-**Description:** Short overview of your project.  
+### 2. **Skillswap**
+**Description:** Discover a community where learning never stops. Trade your skills with others, share your knowledge, and pick up new talents along the way. Whether you want to teach, learn, or simply connect with like-minded people, our platform makes skill exchange easy, fun, and rewarding. Grow together, one skill at a time..  
 **Tech Stack:** HTML • CSS • JS • React • Node.js  
-**Live Link:** [Live Site](#)  
-**Repo:** [GitHub Repo](#)
+**Live Link:** [https://skillswap-b828b.firebaseapp.com/](#)  
 
-### 3. **Project Three**
-**Description:** Short overview of your project.  
+
+### 3. **HERO.IO**
+**Description:** This project uses React.js with Vite to create a fast and dynamic web app.
+It includes routing, charts, and toast notifications for smooth user interaction..  
 **Tech Stack:** HTML • CSS • JS • React • Node.js  
-**Live Link:** [Live Site](#)  
-**Repo:** [GitHub Repo](#)
+**Live Link:** [ https://reminiscent-skin.surge.sh/](#)  
 
