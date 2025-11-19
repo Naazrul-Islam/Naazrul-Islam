@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nazrul Islam</h1>
-<h3 align="center">Web Developer | Programming Hero Level-1 Graduate</h3>
+<h3 align="center">A self-taught web Developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=naazrul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
