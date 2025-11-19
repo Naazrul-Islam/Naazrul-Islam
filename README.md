@@ -1,16 +1,81 @@
-## Hi there 👋
+<!-- Animated Banner Placeholder -->
+<p align="center">
+  <img src="https://uniform-chocolate-oz61ujl4mq.edgeone.app/579920491_2790783237799305_3879467632131119846_n.jpg" alt="Nazrul Islam Banner" width="50%" />
+</p>
 
-<!--
-**Naazrul-Islam/Naazrul-Islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Nazrul Islam</h1>
+<h3 align="center">Web Developer | Programming Hero Level-1 Graduate</h3>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=naazrul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+I'm a passionate web developer who loves building **clean, modern, and responsive web applications**.  
+Currently learning **Web Development from Programming Hero**, and improving my skills in **JavaScript, React, Node.js, and Full-Stack Development**.
+
+---
+
+## 🌱 I’m Currently Learning
+- Web Development by **Programming Hero**  
+- **Next.js** and modern web technologies
+
+---
+
+## 💬 Ask Me About
+- HTML, CSS, JavaScript, React, Node.js
+
+---
+
+## 📫 How to Reach Me
+- **Email:** hmnazrulislam06@gmail.com  
+- **LinkedIn:** [Nazrul Islam](https://linkedin.com/in/nazrul islam)  
+- **Dev.to:** [@nazrulislam70](https://dev.to/@nazrulislam70)  
+- **Facebook:** [Nazrul Islam](https://fb.com/hm nazrul islam)
+
+---
+
+## 🛠 Languages & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
+<img src="https://skillicons.dev/icons?i=css" width="45"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
+<img src="https://skillicons.dev/icons?i=js" width="45"/>
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+<img src="https://skillicons.dev/icons?i=express" width="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="45"/>
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
+</p>
+
+---
+
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naazrul-islam" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📌 Pinned Projects
+### 1. **Project One**
+**Description:** Short overview of your project.  
+**Tech Stack:** HTML • CSS • JS • React • Node.js  
+**Live Link:** [Live Site](#)  
+**Repo:** [GitHub Repo](#)
+
+### 2. **Project Two**
+**Description:** Short overview of your project.  
+**Tech Stack:** HTML • CSS • JS • React • Node.js  
+**Live Link:** [Live Site](#)  
+**Repo:** [GitHub Repo](#)
+
+### 3. **Project Three**
+**Description:** Short overview of your project.  
+**Tech Stack:** HTML • CSS • JS • React • Node.js  
+**Live Link:** [Live Site](#)  
+**Repo:** [GitHub Repo](#)
+
