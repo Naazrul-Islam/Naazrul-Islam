@@ -1,7 +1,8 @@
-<!-- Animated Banner Placeholder -->
 <p align="center">
-  <img src="https://uniform-chocolate-oz61ujl4mq.edgeone.app/579920491_2790783237799305_3879467632131119846_n.jpg" alt="Nazrul Islam Banner" width="50%" />
+  <img src="https://i.ibb.co/C3D197s8/37190633-8469936.jpg" alt="Banner" width="100%" />
 </p>
+
+
 
 <h1 align="center">Hi 👋, I'm Nazrul Islam</h1>
 <h3 align="center">Web Developer | Programming Hero Level-1 Graduate</h3>
